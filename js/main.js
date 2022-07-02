@@ -137,20 +137,6 @@ $('.team-carousel').owlCarousel({
             loop:true
         }
     }
-})
-
-/**portfolio image popup**/
-$('.gallery-popup-item').magnificPopup({
-  type: 'image',
-  gallery:{enabled:true}
-});
-
-
-
-
-
-
-
-
+ })
 });
 
